@@ -1,0 +1,5 @@
+// ISO Game: Infinity Quest
+public class InfinityQuest {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Infinity Quest!");
+        // Add your Infinity Quest game script here
